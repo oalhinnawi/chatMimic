@@ -1,5 +1,5 @@
 # chatMimic
-A NLP app which uses textgenrnn &amp; twitchAPI modules to go to a specific VOD (designated by VOD ID), collects all messages, and trains itself on that chat to try and mimic chat for said VOD. I made this after noticing how different chats react to certain things, I wanted to see different chats could be used to generate different types of text. 
+An NLP app which uses textgenrnn &amp; twitchAPI modules to go to a specific VOD (designated by VOD ID), collects all messages, and trains itself on that chat to try and mimic chat for said VOD. I made this after noticing how different chats react to certain things, I wanted to see different chats could be used to generate different types of text. 
 
 For this project I utilized two different github projects:
 
