@@ -12,7 +12,7 @@ twitchAPI
 https://github.com/PetterKraabol/Twitch-Python
 
 ## VOD ID example 
-https://www.twitch.tv/videos/**1083683886**
+https://www.twitch.tv/videos/1083683886
 In this example, the VOD id here would be 1083683886
 
 ## Example Use
